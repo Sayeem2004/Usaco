@@ -6,3 +6,5 @@
 ## Scores
 - 2020-2021
   - December - Bronze 27/30
+## Ownership
+- All files in this repository were made by me.
