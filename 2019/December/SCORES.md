@@ -9,7 +9,7 @@
 ## Silver
 1) moobuzz 13/13
 2)
-3)
+3) milkvisits 12/12
 ## Bronze
 1)
 2)

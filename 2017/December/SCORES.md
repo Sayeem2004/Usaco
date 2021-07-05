@@ -7,7 +7,7 @@
 2)
 3)
 ## Silver
-1)
+1) homework 10/10
 2)
 3)
 ## Bronze
