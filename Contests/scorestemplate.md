@@ -9,8 +9,8 @@
 ## Silver
 1)
 2)
-3) pails 10/10
+3)
 ## Bronze
 1)
-2) cbarn 10/10
+2)
 3)
