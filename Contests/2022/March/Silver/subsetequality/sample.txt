@@ -1,0 +1,10 @@
+SAMPLE INPUT:
+aabcd
+caabd
+4
+a
+ac
+abd
+abcd
+SAMPLE OUTPUT:
+YNYN
